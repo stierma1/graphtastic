@@ -3,7 +3,7 @@
     "name": "Mark Stier"
   },
   "name": "graphtastic",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "dependencies": {},
   "description": "Algorithm and DataStructures",
   "license": "BSD",
@@ -17,7 +17,9 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "test": "^0.6.0"
+  },
   "readme": "ERROR: No README data found!",
   "_id": "graphtastic@0.0.4",
   "dist": {
